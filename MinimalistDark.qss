@@ -7,7 +7,7 @@
 * {
 	border: none;
 	color : #AFB8C5;
-	background-color: #C02B2B2B;
+	background-color: transparent;
 }
 
 #frame {
